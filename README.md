@@ -1,4 +1,4 @@
-<img width="960" height="538" alt="SuperStore_Sales_Forecasting" src="https://github.com/user-attachments/assets/e98991c6-a0a5-4fdc-a601-cd07a4401906" /># 📊 Super Store Sales Analytics & 15-Day Sales Forecast Dashboard
+# 📊 Super Store Sales Analytics & 15-Day Sales Forecast Dashboard
 
 ### An interactive Power BI dashboard built to analyze retail sales performance, customer behavior, shipping trends, regional insights, and forecast future sales using historical data from 2019–2021.
 
